@@ -1,4 +1,4 @@
-Thanks to Masgimenz 
+
 ### Our Features
 ```
  - Ip Lookup
