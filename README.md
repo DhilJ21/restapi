@@ -1,16 +1,4 @@
-<div align="center">
- 
-# Online API's Tools - Free Rest API
-[![CodeFactor](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2/badge)](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2)
-<details>
- <summary>Sedekah :)</summary>
-
- [![Saweria](https://chrientmip.xyz/content/images/2020/04/saweriadotco.jpg)](https://saweria.co/freerestapi)
- [![Trakteer](https://cdn.trakteer.id/images/mix/navbar-logo.png)](https://trakteer.id/freerestapi)
- 
-</details>
-</div>
-
+Thanks to Masgimenz 
 ### Our Features
 ```
  - Ip Lookup
